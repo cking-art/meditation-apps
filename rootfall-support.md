@@ -11,7 +11,7 @@ email me and I'll get back to you:
 
 **Does Rootfall collect any of my data?**
 No. Rootfall has no accounts, analytics, ads, or network connections.
-Everything stays on your device. See the [privacy policy](./).
+Everything stays on your device. See the [privacy policy](./rootfall-privacy).
 
 **Do I need headphones?**
 Not at all — but the drone is a low sustained tone, and small phone speakers
