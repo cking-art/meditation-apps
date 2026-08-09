@@ -1,8 +1,8 @@
-# Rootfall — Privacy Policy
+# Twelve Frequencies — Privacy Policy
 
-**Last updated: July 2026**
+**Last updated: August 2026**
 
-Rootfall does not collect, store, or transmit any personal data.
+Twelve Frequencies does not collect, store, or transmit any personal data.
 
 The app has no user accounts, no analytics, no advertising, no tracking, and
 no network connections. It does not request access to your camera, microphone,
