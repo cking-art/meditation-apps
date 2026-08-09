@@ -1,6 +1,6 @@
-# Rootfall — Support
+# Twelve Frequencies — Support
 
-Thanks for using Rootfall.
+Thanks for using Twelve Frequencies.
 
 If you have a question, run into a problem, or want to suggest something,
 email me and I'll get back to you:
@@ -9,14 +9,14 @@ email me and I'll get back to you:
 
 ## Common questions
 
-**Does Rootfall collect any of my data?**
-No. Rootfall has no accounts, analytics, ads, or network connections.
-Everything stays on your device. See the [privacy policy](./rootfall-privacy).
+**Does Twelve Frequencies collect any of my data?**
+No. Twelve Frequencies has no accounts, analytics, ads, or network connections.
+Everything stays on your device. See the [privacy policy](./twelve-frequencies-privacy).
 
 **Do I need headphones?**
 Not at all — but the drone is a low sustained tone, and small phone speakers
 don't reproduce those especially well. Headphones make it noticeably warmer.
 
-**Can I use Rootfall without the guided voice?**
+**Can I use Twelve Frequencies without the guided voice?**
 Yes. Turn off "Guided Words" in Settings, or choose the Unguided breathing
 pattern, which stays silent throughout.
