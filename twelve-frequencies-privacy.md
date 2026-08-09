@@ -16,4 +16,4 @@ Because no data is collected, no data is shared with anyone.
 
 ## Contact
 
-If you have any questions about this policy, contact: [ck4974985@gmail.com]
+If you have any questions about this policy, contact: ck4974985@gmail.com
